@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/image (24).png
+    image: images/image (23).png
     image_position: right
     has_background: true
     background:
